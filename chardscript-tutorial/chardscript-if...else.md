@@ -48,7 +48,7 @@ if b > a then
 
 ## Elseif
 
-The <mark style="color:red;">`elseif`</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> keyword is pythons way of saying "if the previous conditions were not true, then try this condition".
+The <mark style="color:red;">`elseif`</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> keyword is a way of saying "if the previous conditions were not true, then try this condition".
 
 #### Example
 
